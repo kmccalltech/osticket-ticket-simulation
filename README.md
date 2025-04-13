@@ -30,14 +30,14 @@ In this tutorial we will go through creating a ticket as a user and working thro
 <img width="950" alt="Screenshot" src="https://i.imgur.com/P74um5d.png" />
     </td>
     <td>
-<img width="841" alt="Screenshot" src="https://i.imgur.com/P74um5d.png" />
+<img width="841" alt="Screenshot" src="https://i.imgur.com/RZzPtsd.png" />
     </td>
   </tr>
 </table>
 
 </p>
 <p>
-  Begin by entering http://localhost/osTicket into the browser. This will bring us to the end user ticket creation page. Here we can submit a ticket as Karen (I created her in the admin panel prior). Once the ticket is created you created, use this link http://localhost/osTicket/scp/login.php to log in as one of the agents you created I'm going to use Peter Parker. 
+  Begin by entering http://localhost/osTicket into the browser. This will bring us to the end-user ticket creation page. Here we can submit a ticket as Karen (I created her in the admin panel prior). Once the ticket you created is submitted, use this link http://localhost/osTicket/scp/login.php to log in as one of the agents you created I'm going to use Peter Parker. 
 </p>
 <br>
 <table>
@@ -57,24 +57,24 @@ In this tutorial we will go through creating a ticket as a user and working thro
 
 
 
-<img height="80%" width="80%"  alt="Screenshot" src="https://github.com/user-attachments/assets/2250bfde-a0cf-4fbf-a9c4-3cc86bebf5a2" />
+<img height="80%" width="80%"  alt="Screenshot" src="" />
 
 <p>Now as an agent we can acknowledge Karen's ticket and begin "working" it to completion. We can first acknowledge the ticket by replying publicly to Karen</p>
 <p>Using the internal notes tab, we can submit notes where only the support team can see. This is helpful to have communication between agents on the progress of the ticket or new developments. </p>
 <br>
 
-<img height="80%" width="80%" alt="Screenshot" src="https://github.com/user-attachments/assets/9e6cd9a8-1c35-48c8-9b0f-bcb8da1cf11c" />
+<img height="80%" width="80%" alt="Screenshot" src="" />
 <p>
   osTicket keeps track of all correspondance between the agents and users to keep track of progress.
 </p>
 <br>
 
-<img height="80%" width="80%" alt="Screenshot" src="https://github.com/user-attachments/assets/724fa26e-a1ff-4acf-bce1-7b231e968f73" />
+<img height="80%" width="80%" alt="Screenshot" src="" />
 
 <p>Once we "work" this ticket to resolution, we can scroll up to the top and change the status to "resolved". In the overview page under the tickets tab, we can view closed tickets. These are tickets that have been resolved and closed. </p>
 
 <br>
-<img height="80%" width="80%" alt="Screenshot" src="https://github.com/user-attachments/assets/0ae0ed02-5aa9-4966-983b-954a49577862" />
+<img height="80%" width="80%" alt="Screenshot" src="" />
 <p>
 To simulate ticket intake via phone or email, we can navigate to tickets as an agent and create a new ticket. The new ticket can be created based on the nature of the issue being reported.
 </p>
@@ -84,10 +84,10 @@ To simulate ticket intake via phone or email, we can navigate to tickets as an a
 <table>
   <tr>
     <td>
-      <img  width="850" alt="Screenshot" src="https://github.com/user-attachments/assets/81bc8b2f-233a-4d7f-b255-dba8ac12c526" />
+      <img  width="850" alt="Screenshot" src="" />
     </td>
     <td>
-      <img  width="650" alt="Screenshot" src="https://github.com/user-attachments/assets/0d68afe8-eddd-4b70-bc83-9e3b357ceb72" />
+      <img  width="650" alt="Screenshot" src="" />
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ To simulate ticket intake via phone or email, we can navigate to tickets as an a
 Instead of the entire department not being able to use Adobe we realize it is just 2 users, this prompts a change in the SLA. 
 </p>
 
-<img width="645" alt="Screenshot" src="https://github.com/user-attachments/assets/7e271417-843e-437e-9d82-1b8dd805b379" />
+<img width="645" alt="Screenshot" src="" />
 
 <p>Once we arrive at a resolution, we can change the status of the ticket at the top from "Open" to "Resolved". Hooray for ticket resolution!</p>
 

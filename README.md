@@ -6,7 +6,7 @@
 
 <h1>osTicket - Ticket Simulation </h1>
   <p>
-In this tutorial we will go through creating a ticket as a user and working through the resolution of the ticket then closing the ticket.
+In this tutorial, we will go through creating a ticket as a user and working through the resolution of the ticket, then closing the ticket.
 </p>
 
   <h2>Prerequisites</h2>
@@ -43,63 +43,50 @@ In this tutorial we will go through creating a ticket as a user and working thro
 <table>
   <tr>
     <td>
-            <img  width="800" alt="Screenshot" src="" />
+            <img  width="800" alt="Screenshot" src="https://i.imgur.com/9y7uN49.png" />
     </td>
     <td>
-          <img width="650" alt="Screenshot" src="" />
+          <img width="650" alt="Screenshot" src="https://i.imgur.com/5bZfucx.png" />
     </td>
   </tr>
 </table>
 
 <p>Now that Karen has submitted a ticket regarding the software issue. Lets take a look at it as agent.</p>
-<P>We can assign the ticket to Peter as or the Accounting team we created. Take note of the SLA and priority. These can be modified if needed when we find out more about the ticket. </P>
+<P>We can assign the ticket to Peter as or the Accounting team we created. Click the ticket -> Assigned To -> drop-down menu, then click Peter. Take note of the SLA and priority. These can be modified if needed when we find out more about the ticket. </P>
 <br>
 
 
 
-<img height="80%" width="80%"  alt="Screenshot" src="" />
+<img height="80%" width="80%"  alt="Screenshot" src="https://i.imgur.com/UCvSaRK.png" />
 
-<p>Now as an agent we can acknowledge Karen's ticket and begin "working" it to completion. We can first acknowledge the ticket by replying publicly to Karen</p>
-<p>Using the internal notes tab, we can submit notes where only the support team can see. This is helpful to have communication between agents on the progress of the ticket or new developments. </p>
+<p>Now, as an agent, we can acknowledge Karen's ticket and begin "working" it to completion. We can first acknowledge the ticket by replying publicly to Karen</p>
+<p>When using the internal notes tab, we can submit notes that only the support team can see. It is helpful to communicate with agents regarding the progress of the ticket or new developments. </p>
 <br>
 
-<img height="80%" width="80%" alt="Screenshot" src="" />
+<img height="80%" width="80%" alt="Screenshot" src="https://i.imgur.com/Xo8d24L.png" />
 <p>
-  osTicket keeps track of all correspondance between the agents and users to keep track of progress.
+  osTicket keeps track of all correspondence between the agents and users to keep track of progress.
 </p>
-<br>
-
-<img height="80%" width="80%" alt="Screenshot" src="" />
-
-<p>Once we "work" this ticket to resolution, we can scroll up to the top and change the status to "resolved". In the overview page under the tickets tab, we can view closed tickets. These are tickets that have been resolved and closed. </p>
-
-<br>
-<img height="80%" width="80%" alt="Screenshot" src="" />
-<p>
-To simulate ticket intake via phone or email, we can navigate to tickets as an agent and create a new ticket. The new ticket can be created based on the nature of the issue being reported.
-</p>
-
 <br>
 
 <table>
   <tr>
     <td>
-      <img  width="850" alt="Screenshot" src="" />
+<img width="950" alt="Screenshot" src="https://i.imgur.com/azLwvPP.png" />
     </td>
     <td>
-      <img  width="650" alt="Screenshot" src="" />
+<img width="841" alt="Screenshot" src="https://i.imgur.com/2FdIO95.png" />
     </td>
   </tr>
 </table>
 
-<p>We can submit replies to the ticket and "work" the ticket to resolution. The ticket can be given a priority and it can be assigned to an agent. As we learn more information about the ticket we can change various elements about the ticket like the SLA.
-Instead of the entire department not being able to use Adobe we realize it is just 2 users, this prompts a change in the SLA. 
+<p>Once the ticket is resolved, we can scroll up to the top and change the status to "resolved". You have an option to write a note in the prompt to give final notes about the ticket it would be good practice to possibly put the solution in that note. </p>
+
+<br>
+<img height="80%" width="80%" alt="Screenshot" src="https://i.imgur.com/Pyrfy8P.png" />
+<p>
+ In the overview page under the tickets tab, we can view closed tickets. These are tickets that have been resolved and closed.
 </p>
 
-<img width="645" alt="Screenshot" src="" />
 
-<p>Once we arrive at a resolution, we can change the status of the ticket at the top from "Open" to "Resolved". Hooray for ticket resolution!</p>
-
-**There are lots of other things that can be done within osTicket so feel free to explore around to build more intuition with osTicket.**
-
-**This conlcudes the Ticket Lifecycle lab!**
+**This concludes the Ticket Simulation lab! Thanks for following along, feel free to mess around with osTicket to see the other things you can do with the software**
